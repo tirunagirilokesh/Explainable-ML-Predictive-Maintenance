@@ -1,0 +1,2 @@
+Model,Accuracy,Balanced Accuracy,Failure Precision,Failure Recall,Failure F1
+Gradient Boosting,0.986,0.8366824990865912,0.8846153846153846,0.6764705882352942,0.7666666666666667

@@ -1,0 +1,2 @@
+Model,Accuracy,Balanced Accuracy,Failure Precision,Failure Recall,Failure F1
+Decision Tree,0.979,0.8046827426622822,0.7241379310344828,0.6176470588235294,0.6666666666666666

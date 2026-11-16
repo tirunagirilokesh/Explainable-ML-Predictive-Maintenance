@@ -1,0 +1,11 @@
+Model,Threshold,Accuracy,Precision,Recall,F1-score,False Alarms,Missed Failures,Detected Failures
+Gradient Boosting,0.5,0.9812,0.8333,0.5556,0.6667,6,24,30
+Gradient Boosting,0.4,0.9806,0.7556,0.6296,0.6869,11,20,34
+Gradient Boosting,0.3,0.9794,0.7143,0.6481,0.6796,14,19,35
+Gradient Boosting,0.2,0.9725,0.5781,0.6852,0.6271,27,17,37
+Gradient Boosting,0.1,0.9631,0.4719,0.7778,0.5874,47,12,42
+Random Forest,0.5,0.9844,0.9677,0.5556,0.7059,1,24,30
+Random Forest,0.4,0.9844,0.8372,0.6667,0.7423,7,18,36
+Random Forest,0.3,0.9825,0.7407,0.7407,0.7407,14,14,40
+Random Forest,0.2,0.9719,0.5634,0.7407,0.64,31,14,40
+Random Forest,0.1,0.9487,0.3852,0.8704,0.5341,75,7,47

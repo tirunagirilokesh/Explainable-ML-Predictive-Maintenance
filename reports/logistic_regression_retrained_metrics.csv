@@ -1,0 +1,2 @@
+Model,Accuracy,Balanced Accuracy,Failure Precision,Failure Recall,Failure F1
+Logistic Regression,0.8245,0.8240317866276945,0.14177215189873418,0.8235294117647058,0.24190064794816415

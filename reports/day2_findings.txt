@@ -1,0 +1,37 @@
+DAY 2: EXPLORATORY DATA ANALYSIS
+========================================
+
+Dataset rows: 10000
+Dataset columns: 14
+Missing values: 0
+Duplicate rows: 0
+
+Machine failure counts:
+Machine failure
+0    9661
+1     339
+
+Failure percentages:
+Machine failure
+0    96.61
+1     3.39
+
+Failure rate by machine type (%):
+Type
+H    2.09
+L    3.92
+M    2.77
+
+Numerical feature correlations with Machine failure:
+Machine failure            1.000000
+HDF                        0.575800
+OSF                        0.531083
+PWF                        0.522812
+TWF                        0.362904
+Torque [Nm]                0.191321
+Tool wear [min]            0.105448
+Air temperature [K]        0.082556
+Process temperature [K]    0.035946
+RNF                        0.004516
+UDI                       -0.022892
+Rotational speed [rpm]    -0.044188

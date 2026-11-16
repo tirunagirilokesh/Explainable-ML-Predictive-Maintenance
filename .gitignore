@@ -1,0 +1,32 @@
+﻿# Python environments
+.venv/
+.venv312/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Secrets and environment variables
+.env
+.env.*
+!.env.example
+
+# IDE and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
+
+# Local dashboard history
+reports/dashboard_prediction_history.csv
+
+# Project documentation excluded from GitHub
+*.docx
+*.pdf

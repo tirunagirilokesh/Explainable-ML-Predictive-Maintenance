@@ -1,0 +1,28 @@
+DAY 1: DATASET INSPECTION
+
+Rows: 10000
+Columns: 14
+
+Column names:
+['UDI', 'Product ID', 'Type', 'Air temperature [K]', 'Process temperature [K]', 'Rotational speed [rpm]', 'Torque [Nm]', 'Tool wear [min]', 'Machine failure', 'TWF', 'HDF', 'PWF', 'OSF', 'RNF']
+
+Missing values:
+UDI                        0
+Product ID                 0
+Type                       0
+Air temperature [K]        0
+Process temperature [K]    0
+Rotational speed [rpm]     0
+Torque [Nm]                0
+Tool wear [min]            0
+Machine failure            0
+TWF                        0
+HDF                        0
+PWF                        0
+OSF                        0
+RNF                        0
+
+Machine failure counts:
+Machine failure
+0    9661
+1     339
